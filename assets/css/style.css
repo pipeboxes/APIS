@@ -1,0 +1,20 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: rgb(160, 158, 148);
+}
+
+.grafico-datos {
+    width: 70%;
+}
+
+.pt-3 {
+    padding: 2em;
+}
+
+#formulario {
+    background-color: black !important;
+    border-radius: 30px !important;
+    border: solid 2px gold;
+}
